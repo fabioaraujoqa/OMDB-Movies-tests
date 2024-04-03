@@ -26,6 +26,11 @@ body {
     width: 90px;
 }
 
+#popcorn {
+    height: 70px;
+    width: 70px;
+}
+
 h2 {
     color: #ffaa00;
 }
